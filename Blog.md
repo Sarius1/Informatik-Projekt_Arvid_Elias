@@ -7,3 +7,5 @@ Heute haben wir uns mit den Grundlagen des Programmierens beschäftigt. Wir habe
 Heute haben wir uns weiterhin mit StarLogoTNG programmiert. Wir sind bis Lernaktivität 4 gekommen und haben diese auch abgeschlossen. Am Ende der Stunde haben wir uns auch mit globalen Variablen beschäftigt und das Abeitsblatt dazu gelesen und im Code angewandt.
 
 29. August 2022
+
+Heute haben wir uns wieder mit den globalen Variablen beschäftigt. Diese waren doch schwieriger als anfangs erwartet und für Leraktivität 5 sehr wichtig. Das Konzept wurde uns von Herr Buhl nochmal ausführlich erklärt und an einem Beispiel erklärt. Danach haben wir mit einer website. Die alte SarlogoTNG website geöffnet und uns nochmal tutorials angeguckt. Auch haben wir uns 2 fertige spiele gedpwnloaded und angeguckt um die coding struktur zu verstehen. Am ende haben wir auch nach aufgaben gesucht aber unglücklicherweise keine gefunden.
