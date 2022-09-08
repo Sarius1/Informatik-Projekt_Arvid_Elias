@@ -18,3 +18,5 @@ Zudem haben wir bereits mit der nächsten Lernaktivität angefangen. Da sollen w
 
 
 8. Semptember
+
+Heute haben wir mit dem coden des Paintball-Spiels fortgefahren.
