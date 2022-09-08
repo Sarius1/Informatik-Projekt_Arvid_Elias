@@ -9,3 +9,12 @@ Heute haben wir uns weiterhin mit StarLogoTNG programmiert. Wir sind bis Lernakt
 29. August 2022
 
 Heute haben wir uns wieder mit den globalen Variablen beschäftigt. Diese waren doch schwieriger als anfangs erwartet und für Leraktivität 5 sehr wichtig. Das Konzept wurde uns von Herr Buhl nochmal ausführlich erklärt und an einem Beispiel erklärt. Danach haben wir mit einer website. Die alte SarlogoTNG website geöffnet und uns nochmal tutorials angeguckt. Auch haben wir uns 2 fertige spiele gedpwnloaded und angeguckt um die coding struktur zu verstehen. Am ende haben wir auch nach aufgaben gesucht aber unglücklicherweise keine gefunden.
+
+5. September 2022
+
+Heute habe wir die Lernaktivität 5 abgeschlossen. Jedoch haben wir einen sogenannten "hack" benutztund Herr Buhl hat uns dem Konzept der "boolean Variable" beschäftgt. Dadurch ist unser Charakter nicht einfach gestorben wenn er das Gebäude berührt hat, sondern das System hat gecheckt, ob der Charaktär eine Schlüssel besitzt oder nicht
+Zudem haben wir bereits mit der nächsten Lernaktivität angefangen. Da sollen wir ein eigenes Paintball spiel coden.
+
+
+
+8. Semptember
