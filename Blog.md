@@ -20,3 +20,7 @@ Zudem haben wir bereits mit der nächsten Lernaktivität angefangen. Da sollen w
 8. Semptember
 
 Heute haben wir mit dem coden des Paintball-Spiels fortgefahren.
+
+12. September
+
+Heute haben wir die Lernaktivität 6 beendet. diese Lernaktivität bestand daraus, ein paintball-spiel zu programmieren. in dem spiel hat man blöcke geschossen welche dann die farbe von enemys veränderte. Herr buhl hatte uns dann noch mit globalen und agenten - variablen gezeigt, wie der paintball nach einiger zeit verschwindet. Dadurch wurde uns noch die funktion der variablen noch näher gebracht
