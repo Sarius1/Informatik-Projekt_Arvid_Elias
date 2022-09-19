@@ -23,4 +23,10 @@ Heute haben wir mit dem coden des Paintball-Spiels fortgefahren.
 
 12. September
 
-Heute haben wir die Lernaktivität 6 beendet. diese Lernaktivität bestand daraus, ein paintball-spiel zu programmieren. in dem spiel hat man blöcke geschossen welche dann die farbe von enemys veränderte. Herr buhl hatte uns dann noch mit globalen und agenten - variablen gezeigt, wie der paintball nach einiger zeit verschwindet. Dadurch wurde uns noch die funktion der variablen noch näher gebracht
+Heute haben wir die Lernaktivität 6 beendet. diese Lernaktivität bestand daraus, ein paintball-spiel zu programmieren. in dem spiel hat man blöcke geschossen welche dann die farbe von enemys veränderte. Herr buhl hatte uns dann noch mit globalen und agenten - variablen gezeigt, wie der paintball nach einiger zeit verschwindet. Dadurch wurde uns noch die funktion der variablen noch näher gebracht. Auch haben wir die Lernaktivitäten 7 und 8 fertiggestellt. Diese haben auf dem Urspünglichen Paintball spiel aufgebaut
+
+19. September
+
+Heute haben wir die Paintball einheit abgeschlossen und damit angefangen eine Pandemie zu erstellen. Dazu sollten wir eine Krankheit programmieren, dessen Ansteckungswahrscheinlichkeit sich mithilfe von Slidern einstellen kann. Wenn ein Agent krank wird ändert sich seine Farbe von Blau=Gesund zu rot=Krank. Anfangs hatten wir damit Probleme, nach einer kurzen erklärung von Herr Buhl wurde uns die Funktionsweise wieder schnell klar. Nächste Woche wollen wir zudem coden, das Agenten Gegenstände aufheben können, um Ihre immunität zu erhöhen. Zudem wollen wir einstellen, das sie nach einiger Zeit immun werden oder in ein Krankenhaus gehen können, um mit einer bestimmten wahrscheinlichkeit geheilt zu werden
+
+
