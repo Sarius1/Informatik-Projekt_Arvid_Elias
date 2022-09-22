@@ -24,24 +24,28 @@ In diesem Bild ist der Charakter, welchen man bewegen kann neben dem Gegenstand,
 Zudem hat unser Charakter die Mölichkeit bei einer Collision mit einem Baum, Ihn hinaufzuklettern.![image](https://user-images.githubusercontent.com/111464150/191762238-b4f19513-bba7-4055-9ea1-091bfd1bdb47.png)
 Dadurch kann man sich einen besseren Überblick über die Map verschaffen. Mit dem Abschließen dieser Lerneinheit haben wir unser erstes Adventure-Spiel programmiert. Nach dem Abschließen des Spiels erscheint ein Victory-Bildschirm 
 ![image](https://user-images.githubusercontent.com/111464150/191762967-13ea8e33-23ca-466b-9221-f9a504092f1e.png)
-
+Wenn wir mit einem Projektil welches unser Charakter abfeuert einen Gegner treffen, ändert dieser seine Farbe. Zudem spricht er "Splat" welches bei einer Collision mit einem Projektil entsteht.
 Zudem haben wir bereits mit der nächsten Lernaktivität angefangen. Da sollen wir ein eigenes Paintball spiel coden.
 
 
 
 8. Semptember
 
-Heute haben wir mit dem coden des Paintball-Spiels fortgefahren. Dies hat sich als kompliziert herausgestellt, da man viele Sachen im Code beachten musste. Dies hat uns jedoch nicht vom abschließen der Lerneinheit aufgehalten.
+Heute haben wir mit dem coden des Paintball-Spiels fortgefahren. Dies hat sich als kompliziert herausgestellt, da man viele Sachen im Code beachten musste. 
 
 12. September
 
 Heute haben wir die Lernaktivität 6 beendet. diese Lernaktivität bestand daraus, ein paintball-spiel zu programmieren. in dem spiel hat man blöcke geschossen welche dann die farbe von enemys veränderte. Herr buhl hatte uns dann noch mit globalen und agenten - variablen gezeigt, wie der paintball nach einiger zeit verschwindet. Dadurch wurde uns noch die funktion der variablen noch näher gebracht. Auch haben wir die Lernaktivitäten 7 und 8 fertiggestellt. Diese haben auf dem Urspünglichen Paintball spiel aufgebaut
+![image](https://user-images.githubusercontent.com/111464150/191766089-20757d4c-c571-4da2-bd0e-3e81b14db7b9.png)
+
 
 19. September
 
 Heute haben wir die Paintball einheit abgeschlossen und damit angefangen eine Pandemie zu erstellen. Dazu sollten wir eine Krankheit programmieren, dessen Ansteckungswahrscheinlichkeit sich mithilfe von Slidern einstellen kann. Wenn ein Agent krank wird ändert sich seine Farbe von Blau=Gesund zu rot=Krank. Anfangs hatten wir damit Probleme, nach einer kurzen erklärung von Herr Buhl wurde uns die Funktionsweise wieder schnell klar. Nächste Woche wollen wir zudem coden, das Agenten Gegenstände aufheben können, um Ihre immunität zu erhöhen. Zudem wollen wir einstellen, das sie nach einiger Zeit immun werden oder in ein Krankenhaus gehen können, um mit einer bestimmten wahrscheinlichkeit geheilt zu werden
+![image](https://user-images.githubusercontent.com/111464150/191769709-88ebd387-ed2c-4a1d-8a3e-b4b8ab8930d4.png)
 
 22. September
 
+Heute haben wir bei unserer Epedemie weitergecodet. Neben den bereits bestehenden einstellbaren Variablen(Bspw. Ansteckungswahrscheinlichkeit, Heilungswahrscheinlichkeit und Tödlichkeit) haben wir zudem angefangen Charaktere mit verschiedenen Funktionen zu coden. Dazu zählen zum Beispiel Ärzte, welche eine Wahrscheinlichkeit haben, infizierte Leute zu heilen. Dies stand auch in der Lerneinheit 9. Außerdem steht da, dass man als nächstes ein Krankenhaus erschaffen soll, durch welches infizierte hgeheilt, oder vielleicht sogar geimpft werden können. Außerdem haben wir eine eigene Idee entwickelt, das Infizierte Charaktere Partikel abschießen können. Wenn Gesunde von diesen Getroffen werden, haben sie eine extrem hohe Wahrscheinlichkeit, angesteckt zu werden.
 
 
