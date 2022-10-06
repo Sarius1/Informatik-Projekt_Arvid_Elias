@@ -76,6 +76,13 @@ Die Wahrscheinlichkeit dieser EEreignisse kann man zum einen  mithilfe eines Reg
 Im ersten Diagramm sieht man die Anzahl der jeweiligen Agenten zum Start der Epidemie. Anhand des zweiten Diagrammes ist der Verlauf zu erkennen. Man erkennt das die Anzahl der Ärzte durchgehend steigt, jedoch die Anzahl der Kranken aufgrund von der hohen Sterbewahrscheinlichkeit massiv abnimmt.
   
   24. Oktober 2022
+
+  <details>
+  <summary>Überschrift</summary>
+
+Inhalt
+
+</details>
   
   
  
