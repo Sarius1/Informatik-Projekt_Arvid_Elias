@@ -21,7 +21,9 @@ Heute haben wir uns wieder mit den globalen Variablen beschäftigt. Diese waren 
 5. September 2022
 
 Heute habe wir die Lernaktivität 5 abgeschlossen. Jedoch haben wir einen sogenannten "hack" benutztund Herr Buhl hat uns dem Konzept der "boolean Variable" nähergebracht. Dadurch ist unser Charakter nicht einfach gestorben wenn er das Gebäude berührt hat, sondern das System hat gecheckt, ob der Charaktär eine Schlüssel besitzt oder nicht.
+  
 ![image](https://user-images.githubusercontent.com/111464150/191761353-13f10ae9-ea93-4d7d-9dc9-468ec82e9dca.png)
+  
 In diesem Bild ist der Charakter, welchen man bewegen kann neben dem Gegenstand, welchen man einsammeln muss, um ein Haus zu betreten. zudem haben wir Enemys, also Feinde programmiert, durch welche man bei Berührung stirbt.
 Zudem hat unser Charakter die Mölichkeit bei einer Collision mit einem Baum, Ihn hinaufzuklettern.![image](https://user-images.githubusercontent.com/111464150/191762238-b4f19513-bba7-4055-9ea1-091bfd1bdb47.png)
 Dadurch kann man sich einen besseren Überblick über die Map verschaffen. Mit dem Abschließen dieser Lerneinheit haben wir unser erstes Adventure-Spiel programmiert. Nach dem Abschließen des Spiels erscheint ein Victory-Bildschirm 
@@ -55,5 +57,23 @@ Heute haben wir bei unserer Epedemie weitergecodet. Neben den bereits bestehende
   Heute haben wir mit dem Programmieren unserer Epidemie fortgefahren. Dabei haben wir den Arzt so programmiert, dass er Kranken Agenten solange hinterherläuft, bis er diese heilt. Heilen tut er sie, indem er sie berührt.Dabei werden mit einer Variable die Koordinaten von der im nächsten Person angegeben. Diese Koordinaten werden ständig aktualisiert, sodass er den kranken Agenten verfolgt. Als Arzt haben wir den Breed "JarJar-Binks " verwendet. So haben wir auch bei  500 Agenten einen guten Überblick.
   ![image](https://user-images.githubusercontent.com/111464150/192239286-e8891a2c-1881-4f79-a703-30b16e925033.png)
 In diesem Bild sieht man den derzeitigen Code für den Arzt.
+  
+  06. Oktober 2022
+  
+  Das Programmieren der Epidemie hat sich als größeres Projekt herausgestellt als anfangs gedacht. Vermutlich werden wir noch die nächsten zwei Doppelstunden an ihr Programmieren. Dies liegt daran, dass man sie nach belieben ausarbeiten kann, und es kaum bis gar keine Einschränkungen. Anscheinend hat sich irgendwo im Code ein Fehler eingebaut, da die Bewegung der Ärzte noch nicht Flüssig funktioniert. Nach einiger Zeit Laufen ddie Ärzte den Kranken hinterher oder bBewgen sich in die Mitte der Fläche. Die Ärzte wählen sich einen Patienten aus und laufen diesem Permanent hinterher. Eigentlich sollte der Arzt jeodch nach dem heilen eines Patienten zu Einem neuen Kranken übergehen und nicht durchgehend einen einzigen Patienten verfolgen. Nach einigen Änderungen Beim Code zur Bewegung des Arztes konnten wir den Fehler beheben
+ ![image](https://user-images.githubusercontent.com/111464150/194328507-c356c7bb-f70f-44c3-92bf-48c66b6abbbc.png)
+Zudem musste man bei den Collisions ändern, das der Zustand der Ärzte auf set:false geändert wird. Dadurch laufen die Ärzte am Ende nicht mehr sich gegenseitig her. Dies war jedoch, wie sich herausgestellt hat nicht unser Fehler Vielmehr mussten wir den Code lage einstudieren, um zu erkennen, dass wir den Gesundheitsstand der Ärzte auf set:gesund stellen mussten. Danach laufen die Ärzte zwar immer noch den Bereits gesunden hinterher, dies liegt aber daran, dass sie eine bestimmte Anzahl von Schritten verfolgen und dann erst ein neues Ziel suchen. Ansonsten würden sie nur von einem Kranken zum anderen laufen ohne diesen zu heilen. Zudem haben wir auch eine Dankbarkeitsrate hinzugefügt. DIes bedeutet, das wenn ein Patient geheilt wird, dieser eine einstellbare Wahrscheinlichkeit hat, wieder geheilt zu werden.
+  In diesem Bild sehen wir alle gobalen und  Agentenvariablen, welche wir einstellen können.
+  ![image](https://user-images.githubusercontent.com/111464150/194330554-f526849b-6328-4cef-bd25-0237bf47b2e0.png)
+Die Wahrscheinlichkeit dieser EEreignisse kann man zum einen  mithilfe eines Reglers einstellen, oder man kann diese genau einstellen.
+  Anhand eines Diagrammes kann man den Anteil der Kranken, Gesunden und Ärzten erkennen.
+  ![image](https://user-images.githubusercontent.com/111464150/194332328-e5f517ed-3cdd-46c3-838c-d1910392e42b.png)
 
+  ![image](https://user-images.githubusercontent.com/111464150/194332022-d14399d9-f392-4118-b516-d6eac0c931ae.png)
 
+Im ersten Diagramm sieht man die Anzahl der jeweiligen Agenten zum Start der Epidemie. Anhand des zweiten Diagrammes ist der Verlauf zu erkennen. Man erkennt das die Anzahl der Ärzte durchgehend steigt, jedoch die Anzahl der Kranken aufgrund von der hohen Sterbewahrscheinlichkeit massiv abnimmt.
+  
+  24. Oktober 2022
+  
+  
+ 
