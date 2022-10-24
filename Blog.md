@@ -69,8 +69,13 @@ Die Wahrscheinlichkeit dieser EEreignisse kann man zum einen  mithilfe eines Reg
   Anhand eines Diagrammes kann man den Anteil der Kranken, Gesunden und Ärzten erkennen.
   ![image](https://user-images.githubusercontent.com/111464150/194332328-e5f517ed-3cdd-46c3-838c-d1910392e42b.png)
 
-  ![image](https://user-images.githubusercontent.com/111464150/194332022-d14399d9-f392-4118-b516-d6eac0c931ae.png)
+  <details>
+  <summary>Bild</summary>
 
+![image](https://user-images.githubusercontent.com/111464150/194332022-d14399d9-f392-4118-b516-d6eac0c931ae.png)
+
+
+</details>
 Im ersten Diagramm sieht man die Anzahl der jeweiligen Agenten zum Start der Epidemie. Anhand des zweiten Diagrammes ist der Verlauf zu erkennen. Man erkennt das die Anzahl der Ärzte durchgehend steigt, jedoch die Anzahl der Kranken aufgrund von der hohen Sterbewahrscheinlichkeit massiv abnimmt.
   
   24. Oktober 2022
