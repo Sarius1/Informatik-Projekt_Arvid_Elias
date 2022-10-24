@@ -98,6 +98,22 @@ Im ersten Diagramm sieht man die Anzahl der jeweiligen Agenten zum Start der Epi
 Inhalt
 
 </details>
+
+Heute war die erste Stunde nach den Ferien. Wir sind schnell wieder ins coden reingekommen. Wir haben daraufhin parallel an zwei kleinen Zwischenprojekten gearbeitet. Eine Person hat ein Funktionierendes Krankenhaus programmiert, woraufhin die andere Person Projektile also Nieser programmiert hat. Beim Krankenhaus ist es so, das Kranke Menschen zu einem fest gesetzen Geäude gehen. Die Heilwahrscheinlichkeit ist 100% für die Agenten. Jedoch kann nur eine Einstellbare Menge an Agenten das Krankenhaus betreten. Wenn diese Anzahl erreicht wurde, wird das Krankenhaus unbrauchbar.
+  <details>
+  <summary>Krankenhaus</summary>
+
+![image](https://user-images.githubusercontent.com/111464150/197490100-0a93e2e6-f11e-4f46-a584-97552819b2cc.png)
+
+
+</details>
+Beim Pratikelausstoß ist es so, dass Kranke Patienten eine bestimmte Menge Partikel ausstoßen. Diese Partikel haben eine Ansteckungswahrscheinlichkeit von 100% die Partikel verschwinden nach einer festgesetzen Zeit.
   
-  
+  <details>
+  <summary>Partikelaustoß der Figuren</summary>
+
+![image](https://user-images.githubusercontent.com/111464150/197491880-b4d46f86-22c0-489d-88d1-51ee856cfc59.png)
+
+</details>
+ 
  
