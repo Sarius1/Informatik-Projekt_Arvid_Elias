@@ -67,10 +67,16 @@ In diesem Bild sieht man den derzeitigen Code für den Arzt.
   ![image](https://user-images.githubusercontent.com/111464150/194330554-f526849b-6328-4cef-bd25-0237bf47b2e0.png)
 Die Wahrscheinlichkeit dieser EEreignisse kann man zum einen  mithilfe eines Reglers einstellen, oder man kann diese genau einstellen.
   Anhand eines Diagrammes kann man den Anteil der Kranken, Gesunden und Ärzten erkennen.
-  ![image](https://user-images.githubusercontent.com/111464150/194332328-e5f517ed-3cdd-46c3-838c-d1910392e42b.png)
+ <details>
+  <summary>Erster Graph </summary>
+
+![image](https://user-images.githubusercontent.com/111464150/194332328-e5f517ed-3cdd-46c3-838c-d1910392e42b.png)
+
+
+</details> 
 
   <details>
-  <summary>Bild</summary>
+  <summary>Zweiter Graph </summary>
 
 ![image](https://user-images.githubusercontent.com/111464150/194332022-d14399d9-f392-4118-b516-d6eac0c931ae.png)
 
