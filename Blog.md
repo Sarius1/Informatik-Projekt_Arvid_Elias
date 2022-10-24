@@ -1,7 +1,13 @@
  22. August 2022
 
 Heute haben wir uns mit den Grundlagen des Programmierens beschäftigt. Wir haben versucht bereits ein Theme zu finden, welches wir gerne programmieren würden(z.B. eine Website oder ein Spiel usw.). Jedoch haben wir uns umentschieden und vorerst wieder angefangen unsere Programmiergrundlagen zu verbessern, da wir beide mit sehr wenig Erfahrung ins Programmieren gegangen sind. Deshalb haben wir mit StarlogoTNG die Lernaktivitäten angefangen zu bearbeiten. Wir sind ungefähr bis Lernaktivität 2 gekommen, da es etwas gedauert hat mit den Grundlagen vertraut zu werden.
+  <details>
+  <summary>Startbildschirm Starlogo TNG</summary>
+
 ![image](https://user-images.githubusercontent.com/111464150/191756030-480fd920-de61-4f4a-af90-ed2a90bc07fc.png)
+
+</details>
+
 Wie man in diesem Bild sehen kann, ist Starlogo nicht wie jedes Programmierprogramm, sondern benutzt eine vereinfachte Form des codens, das Blockcodieren. Durch das Blockcoden lernt man Schritt für Schritt das einfache Coden. Dies ist eine effektivere Art, Coden zu lernen, als ohne Erfahrung in eine komplizierte Sprache wie Python oder JavaScript hineingeworfen zu werden. Dies liegt daran, dass man durch Blockcoding ein allgemeines, umfassendes Verständnis des Programmierens erlangt.
 ![image](https://user-images.githubusercontent.com/111464150/191757783-a1c47c59-da4a-469a-88f3-947912992ca4.png)
 Im Beispiel hier haben wir mithilfe des Blockcodes eine Figur programmiert, mit der man sich auf einem Gelände frei Bewegen kann. Dafür haben wir einen Setup-Block, welcher die Figur spawnt. In einem foreverBlock haben wir angegeben, mit welchen Tastaturtastenkombinationen man seine Figur steuern kann.
