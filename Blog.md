@@ -176,7 +176,7 @@ Heute haben wir gemerkt, dass wir nicht alle Lerneinheiten gespeichert haben. De
 7. November 2022
 
 Heute haben wir mit dem Programmieren der fehlenden Lerneinheiten fortgefahren. Wir haben die Lerneinheiten 4 und 5 abgeschlossen.
-
+Das wiederholen der bereits abgeschlossenen Lerneinheiten bringt zwei Vorteile mit sich. Der erste ist, dass wir alle Lerneinheiten dann vollständig gespeichert habe3n. Der zweite Vorteil ist es, dass wir dadurch mit bereits älteren Coding-Techniken wieder in Kontakt kommen und dadurch uner Reservoir an bereits angewandtem Coing getestet wird. Dadurch können wir auch sichergehen, dass wir bereits gelernte Code-Techniken nicht vergessen.
 
  
 10. November 2022
