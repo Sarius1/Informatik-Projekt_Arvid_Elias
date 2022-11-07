@@ -179,4 +179,4 @@ Heute haben wir mit dem Programmieren der fehlenden Lerneinheiten fortgefahren. 
 
 
  
- 
+10. November 2022
