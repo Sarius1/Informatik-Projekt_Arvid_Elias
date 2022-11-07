@@ -1,6 +1,9 @@
  22. August 2022
 
 Heute haben wir uns mit den Grundlagen des Programmierens beschäftigt. Wir haben versucht bereits ein Theme zu finden, welches wir gerne programmieren würden(z.B. eine Website oder ein Spiel usw.). Jedoch haben wir uns umentschieden und vorerst wieder angefangen unsere Programmiergrundlagen zu verbessern, da wir beide mit sehr wenig Erfahrung ins Programmieren gegangen sind. Deshalb haben wir mit StarlogoTNG die Lernaktivitäten angefangen zu bearbeiten. Wir sind ungefähr bis Lernaktivität 2 gekommen, da es etwas gedauert hat mit den Grundlagen vertraut zu werden.
+Bei der ersten Lerneinheit war es die Aufgabe, den Agenten eine bestimmte Bewegung zu coden, sodass diese im Kreis laufen. Dafür wurde eine Schritt-für-Schritt -Anleitung bereitgestellt.
+Die zweite Lerneinheit war bereits Komplexer. In dieser sollte man die Agenten frei in der Fläche rumlaufen lassen. Zudem haben wir einen neuen Block kennengekernt, und zwar den Collision-Block. Mit diesem Block sollten wir einstellen, dass wenn sich zwei Agenten treffen, sie sich gegenseitig grüßen.
+
   <details>
   <summary>Startbildschirm Starlogo TNG</summary>
 
@@ -10,7 +13,7 @@ Heute haben wir uns mit den Grundlagen des Programmierens beschäftigt. Wir habe
 
 Wie man in diesem Bild sehen kann, ist Starlogo nicht wie jedes Programmierprogramm, sondern benutzt eine vereinfachte Form des codens, das Blockcodieren. Durch das Blockcoden lernt man Schritt für Schritt das einfache Coden. Dies ist eine effektivere Art, Coden zu lernen, als ohne Erfahrung in eine komplizierte Sprache wie Python oder JavaScript hineingeworfen zu werden. Dies liegt daran, dass man durch Blockcoding ein allgemeines, umfassendes Verständnis des Programmierens erlangt.
 <details>
-  <summary>Erster Code</summary>
+  <summary>Code Steuerung</summary>
 
 ![image](https://user-images.githubusercontent.com/111464150/191757783-a1c47c59-da4a-469a-88f3-947912992ca4.png)
 
@@ -166,5 +169,9 @@ Beim Pratikelausstoß ist es so, dass Kranke Patienten eine bestimmte Menge Part
 ![image](https://user-images.githubusercontent.com/111464150/197491880-b4d46f86-22c0-489d-88d1-51ee856cfc59.png)
 
 </details>
+
+07.11 2022
+
+
  
  
