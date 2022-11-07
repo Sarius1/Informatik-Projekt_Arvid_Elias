@@ -169,8 +169,13 @@ Beim Pratikelausstoß ist es so, dass Kranke Patienten eine bestimmte Menge Part
 ![image](https://user-images.githubusercontent.com/111464150/197491880-b4d46f86-22c0-489d-88d1-51ee856cfc59.png)
 
 </details>
+03. November 2022
 
-07.11 2022
+Heute haben wir gemerkt, dass wir nicht alle Lerneinheiten gespeichert haben. Der Vollständigkeit halber haben wir uns dazu entschieden, die älteren Lerneinheiten neu zu erstellen um unter anderem für den Block den Code und Screenshots zu haben. Dafür haben wir die Lerneinheiten 1,2 und 3 beendet. Zudem haben wir auch unseren Dateienordner geordnet und einen neuen Ordner, den Screenshot-Ordner erstellt.
+
+7. November 2022
+
+Heute haben wir mit dem Programmieren der fehlenden Lerneinheiten fortgefahren. Wir haben die Lerneinheiten 4 und 5 abgeschlossen.
 
 
  
