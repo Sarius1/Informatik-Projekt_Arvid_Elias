@@ -183,8 +183,13 @@ Das wiederholen der bereits abgeschlossenen Lerneinheiten bringt zwei Vorteile m
 
 
 17. November 2022
+Heute haben wir mit einem neuen großprojekt angefangen. Dabei haben wir uns bei einem von Herr Buhl gezeigten Projekt inspirieren lassen. In diesem neuen Großprojekt wollen wir verschiedene Arten von Agenten kreieren, um eie Räuber Beute simulation simulieren zu können.
+
 
 21. November 2022   (Arvid krank)
 
 Heute haben wir an unserer Fisch-Simulation weitergearbeitet. Dazu haben wir die Procedures programmiert, welche die Bewegung, also das Movement der Agenten steuert.
 Des weiteren haben wir auch schon die Collisions ausgearbeitet, und den Code verfeinert.
+
+(vereinfachte Idee Schere Stein Papier simulation im zweidimensionalen Raum)->Mannews
+
