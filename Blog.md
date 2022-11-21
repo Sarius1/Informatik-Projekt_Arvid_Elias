@@ -180,3 +180,11 @@ Das wiederholen der bereits abgeschlossenen Lerneinheiten bringt zwei Vorteile m
 
  
 10. November 2022
+
+
+17. November 2022
+
+21. November 2022   (Arvid krank)
+
+Heute haben wir an unserer Fisch-Simulation weitergearbeitet. Dazu haben wir die Procedures programmiert, welche die Bewegung, also das Movement der Agenten steuert.
+Des weiteren haben wir auch schon die Collisions ausgearbeitet, und den Code verfeinert.
