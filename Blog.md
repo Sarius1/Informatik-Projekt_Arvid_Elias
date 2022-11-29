@@ -24,11 +24,11 @@ Im Beispiel hier haben wir mithilfe des Blockcodes eine Figur programmiert, mit 
 
 25. August 2022
 
-Heute haben wir uns weiterhin mit StarLogoTNG programmiert. Wir sind bis Lernaktivität 4 gekommen und haben diese auch abgeschlossen. Am Ende der Stunde haben wir uns auch mit globalen Variablen beschäftigt und das Abeitsblatt dazu gelesen und im Code angewandt. Die Lernaktivität bestand daraus, die aus den vorherigen gelernten Codes in eine neue Schwierigere Aufgabe zu implementieren. DIe neue Aufgabe war es, dass der Agent neue Blöcke einsammeln kann und angezeigt wird wieviele Blöcke er bereits eingesammelt hat. dafür war es Notwendig, eine globale Variable in den Code zu implementieren, die die Blöcke auf dem Feld konstant angibt. Um ein breiteres Verständnis zu erlangen, haben wir uns die verlinkten Arbeitszettel angeguckt.
+Heute haben wir uns weiterhin mit StarLogoTNG programmiert. Wir sind bis Lernaktivität 4 gekommen und haben diese auch abgeschlossen. Am Ende der Stunde haben wir uns auch mit globalen Variablen beschäftigt und das Abeitsblatt dazu gelesen und im Code angewandt. Die Lernaktivität bestand daraus, die aus den vorherigen gelernten Codes in eine neue Schwierigere Aufgabe zu implementieren. DIe neue Aufgabe war es, dass der Agent neue Blöcke einsammeln kann und angezeigt wird wieviele Blöcke er bereits eingesammelt hat. Dafür war es notwendig, eine globale Variable in den Code zu implementieren, die die Blöcke auf dem Feld konstant angibt. Um ein breiteres Verständnis zu erlangen, haben wir uns die verlinkten Arbeitszettel angeguckt.
 
 29. August 2022
 
-Heute haben wir uns wieder mit den globalen Variablen beschäftigt. Diese waren doch schwieriger als anfangs erwartet und für Leraktivität 5 sehr wichtig. Das Konzept wurde uns von Herr Buhl nochmal ausführlich erklärt und an einem Beispiel erklärt. Danach haben wir mit einer Website Waybackmachine die alte SarlogoTNG website geöffnet und uns nochmal tutorials angeguckt. Auch haben wir uns 2 fertige spiele gedpwnloaded und angeguckt um die coding struktur zu verstehen. Am ende haben wir auch nach Aufgaben gesucht aber unglücklicherweise keine gefunden.
+Heute haben wir uns wieder mit den globalen Variablen beschäftigt. Diese waren doch schwieriger als anfangs erwartet und für Leraktivität 5 sehr wichtig. Das Konzept wurde uns von Herr Buhl nochmal ausführlich erklärt und an einem Beispiel erklärt. Danach haben wir mit der Website Waybackmachine die alte SarlogoTNG website geöffnet und uns nochmal tutorials angeguckt. Auch haben wir uns 2 fertige spiele gedpwnloaded und angeguckt um die coding struktur zu verstehen. Am ende haben wir auch nach Aufgaben gesucht aber unglücklicherweise keine gefunden.
 
 5. September 2022
 
@@ -65,7 +65,7 @@ Zudem haben wir bereits mit der nächsten Lernaktivität angefangen. Da sollen w
 
 8. Semptember 2022
 
-Heute haben wir mit dem coden des Paintball-Spiels fortgefahren. Dies hat sich als kompliziert herausgestellt, da man viele Sachen im Code beachten musste. Dabei haben wir gelernt wie man eine Hatch-Funktion benutzt. Mit der Hatchfunktion konnte man den Agenten ausgewählte Objekte spwanen lassen. Diese Objekte konnte man dann noch Programmieren, sodass diese unsere Projektile waren.
+An diesem Tag haben wir mit dem coden des Paintball-Spiels fortgefahren. Dies hat sich als kompliziert herausgestellt, da man viele Sachen im Code beachten musste. Dabei haben wir gelernt wie man eine Hatch-Funktion benutzt. Mit der Hatchfunktion konnte man den Agenten ausgewählte Objekte spwanen lassen. Diese Objekte konnte man dann noch Programmieren, sodass diese unsere Projektile waren.
 
 12. September 2022
 
@@ -81,7 +81,7 @@ Heute haben wir die Lernaktivität 6 beendet. diese Lernaktivität bestand darau
 
 19. September 2022
 
-Heute haben wir die Paintball einheit abgeschlossen und damit angefangen eine Pandemie zu erstellen. Dazu sollten wir eine Krankheit programmieren, dessen Ansteckungswahrscheinlichkeit sich mithilfe von Slidern einstellen kann. Wenn ein Agent krank wird ändert sich seine Farbe von Blau=Gesund zu rot=Krank. Anfangs hatten wir damit Probleme, nach einer kurzen erklärung von Herr Buhl wurde uns die Funktionsweise wieder schnell klar. Nächste Woche wollen wir zudem coden, das Agenten Gegenstände aufheben können, um Ihre immunität zu erhöhen. Zudem wollen wir einstellen, das sie nach einiger Zeit immun werden oder in ein Krankenhaus gehen können, um mit einer bestimmten wahrscheinlichkeit geheilt zu werden
+Mit dem heutigen haben wir die Paintball einheit abgeschlossen und damit angefangen eine Pandemie zu erstellen. Dazu sollten wir eine Krankheit programmieren, dessen Ansteckungswahrscheinlichkeit sich mithilfe von Slidern einstellen kann. Wenn ein Agent krank wird ändert sich seine Farbe von Blau=Gesund zu rot=Krank. Anfangs hatten wir damit Probleme, nach einer kurzen erklärung von Herr Buhl wurde uns die Funktionsweise wieder schnell klar. Nächste Woche wollen wir zudem coden, das Agenten Gegenstände aufheben können, um Ihre immunität zu erhöhen. Zudem wollen wir einstellen, das sie nach einiger Zeit immun werden oder in ein Krankenhaus gehen können, um mit einer bestimmten wahrscheinlichkeit geheilt zu werden
   <details>
   <summary>Pandemie Gesund/Krank</summary>
 
@@ -153,7 +153,7 @@ Inhalt
 
 </details>
 
-Heute war die erste Stunde nach den Ferien. Wir sind schnell wieder ins coden reingekommen. Wir haben daraufhin parallel an zwei kleinen Zwischenprojekten gearbeitet. Eine Person hat ein Funktionierendes Krankenhaus programmiert, woraufhin die andere Person Projektile also Nieser programmiert hat. Beim Krankenhaus ist es so, das Kranke Menschen zu einem fest gesetzen Geäude gehen. Die Heilwahrscheinlichkeit ist 100% für die Agenten. Jedoch kann nur eine Einstellbare Menge an Agenten das Krankenhaus betreten. Wenn diese Anzahl erreicht wurde, wird das Krankenhaus unbrauchbar.
+Nach einer etwas längeren Pause aufgrund der Ferien hatten wir heute wieder Informatik. Wir sind schnell wieder ins coden reingekommen. Wir haben daraufhin parallel an zwei kleinen Zwischenprojekten gearbeitet. Eine Person hat ein Funktionierendes Krankenhaus programmiert, woraufhin die andere Person Projektile also Nieser programmiert hat. Beim Krankenhaus ist es so, das Kranke Menschen zu einem fest gesetzen Geäude gehen. Die Heilwahrscheinlichkeit ist 100% für die Agenten. Jedoch kann nur eine Einstellbare Menge an Agenten das Krankenhaus betreten. Wenn diese Anzahl erreicht wurde, wird das Krankenhaus unbrauchbar.
   <details>
   <summary>Krankenhaus</summary>
 
@@ -171,7 +171,7 @@ Beim Pratikelausstoß ist es so, dass Kranke Patienten eine bestimmte Menge Part
 </details>
 03. November 2022
 
-Heute haben wir gemerkt, dass wir nicht alle Lerneinheiten gespeichert haben. Der Vollständigkeit halber haben wir uns dazu entschieden, die älteren Lerneinheiten neu zu erstellen um unter anderem für den Block den Code und Screenshots zu haben. Dafür haben wir die Lerneinheiten 1,2 und 3 beendet. Zudem haben wir auch unseren Dateienordner geordnet und einen neuen Ordner, den Screenshot-Ordner erstellt.
+Während des Programmierens haben wir gemerkt, dass wir nicht alle Lerneinheiten gespeichert haben. Der Vollständigkeit halber haben wir uns dazu entschieden, die älteren Lerneinheiten neu zu erstellen um unter anderem für den Block den Code und Screenshots zu haben. Dafür haben wir die Lerneinheiten 1,2 und 3 beendet. Zudem haben wir auch unseren Dateienordner geordnet und einen neuen Ordner, den Screenshot-Ordner erstellt.
 
 7. November 2022
 
@@ -192,4 +192,7 @@ Heute haben wir an unserer Fisch-Simulation weitergearbeitet. Dazu haben wir die
 Des weiteren haben wir auch schon die Collisions ausgearbeitet, und den Code verfeinert.
 
 (vereinfachte Idee Schere Stein Papier simulation im zweidimensionalen Raum)->Mannews
+28. November 
+29. 
+Ausfall Herr Buhl
 
