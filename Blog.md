@@ -193,6 +193,19 @@ Des weiteren haben wir auch schon die Collisions ausgearbeitet, und den Code ver
 
 (vereinfachte Idee Schere Stein Papier simulation im zweidimensionalen Raum)->Mannews
 28. November 
-29. 
+
+Ausfall Herr Buhl
+02.12.2022
+
 Ausfall Herr Buhl
 
+05.12.2022
+
+Ausfall Herr Buhl
+
+
+
+
+12.12. 2022
+
+Heute haben wir uns auf ein neues Endsdatum ausgemacht. Das Abgabedatum ist nun der 16.12.2022. Dies liegt an dem vermehrtem Ausfall von Herr Buhl. Aber auch wir haben uns im Sinne unseres Endprojektes umentschieden. Anstatt der Fischsimulation werden wir nun unsere bisherigen Lernaktivitäten zu einer großen Gesund-Krank-Simulation zusmmmenfügen. Dazu haben wir beispielsweise den Code für den Arzt in das Projekt hinzugefügt. Des Weiteren haben wir auch schon die Hustenfunktion hinzugefügt, welche die Niespartikel ausstößt. 
