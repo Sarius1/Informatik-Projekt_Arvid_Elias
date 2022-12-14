@@ -23,15 +23,15 @@ Im Jahr 2019 wurde das neue Virus, das Coronavirus entdeckt und die Welt geriet 
 StarlogoTNG ist ein Programm, welches einem die vereinfachte Form des Coden lehrt. Es handelt sich hierbei nämlich um die Form des Blockcode. DIes bedeutet, dass man nicht wie bei anderen Sprachen wie Python oder Java den herrkömmlichen Code benutzt, sondern mit verschiedenen Blöcken arbeitet. Diese Blöcke haben einzelen Aufgaben und teilen son den Code sichtbar auf.
 
 # Projektentwicklung
-
+.
 # Vorstellung des Projekts
-
+.
 # Der Code
-
+.
 # Kritik
-
+.
 # Ausicht für die Zukunft/ Fazit
-
+.
 # Quellen
-
+.
 # Eigenständigkeitserklärung
