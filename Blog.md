@@ -146,13 +146,6 @@ Im ersten Diagramm sieht man die Anzahl der jeweiligen Agenten zum Start der Epi
   
   24. Oktober 2022
 
-  <details>
-  <summary>Überschrift</summary>
-
-Inhalt
-
-</details>
-
 Nach einer etwas längeren Pause aufgrund der Ferien hatten wir heute wieder Informatik. Wir sind schnell wieder ins coden reingekommen. Wir haben daraufhin parallel an zwei kleinen Zwischenprojekten gearbeitet. Eine Person hat ein Funktionierendes Krankenhaus programmiert, woraufhin die andere Person Projektile also Nieser programmiert hat. Beim Krankenhaus ist es so, das Kranke Menschen zu einem fest gesetzen Geäude gehen. Die Heilwahrscheinlichkeit ist 100% für die Agenten. Jedoch kann nur eine Einstellbare Menge an Agenten das Krankenhaus betreten. Wenn diese Anzahl erreicht wurde, wird das Krankenhaus unbrauchbar.
   <details>
   <summary>Krankenhaus</summary>
