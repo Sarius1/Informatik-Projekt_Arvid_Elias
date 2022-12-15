@@ -42,6 +42,10 @@ Wie ich es bereits in der Einleitung erwähnt habe, hatten wir keine nennenswert
 Wie bereits erwähnt, hatten wir uns für das Programmieren einer Pandemie entschieden. Jedoch waren wir uns noch nicht klar, welches Ausmaß diese annehmen sollte. Da StarlogoTNG ein bereits altes Programm ist und dadurch gewisse Kapazitäten gegeben waren, wurden wir leider etwas eingeschränkt. Dies ändert jedoch nicht an der Vielfältigkeit unseres Projektes. Allein der Blick auf die Startseite zeigt, das es unglaublich viele, einstellbare Variablen zum Anpassen gibt. Zudem gibt es viele Graphen, die den Verlauf der Pandemie tracken und bspw. den Gesunden-, Kranken- und Ärzteanteil zeigen.
 # Der Code
 Da StarlogoTNG den Blockcode verwendet haben wir auch nur eben diesen verwendet. Beim Blockcode hatten wir verschiedene Variablen und Blöcke welche jeweils eine einzigartige Funktion haben. 
+
+
+Setup-Block
+
 Bei StarlogoTNG beginnt ein jder Code mit dem Setup Block
   <details>
   <summary>setup   </summary>
@@ -53,6 +57,9 @@ In unserem  Setupblock kreieren wir vier verschiedene Agenten: den Menschen, den
 Beik Setupblock des Arztes kann man erkennen, dass zuerst 1 Arzt existiert. DIeser ist gesund und kann nicht krank werden.
 Das Geld wurde ebenfalls als immun programmiert und auf halbe größe gesetzt.
 
+
+run-once-Block
+
 Der nächste Block ist der Run Once Block. Dieser wird nur am Anfang ausgeführt und eben nur ein Mal.
   <details>
   <summary>run once Block    </summary>
@@ -63,6 +70,9 @@ Der nächste Block ist der Run Once Block. Dieser wird nur am Anfang ausgeführt
 
 Mit dem run once Block haben wir den Herd angegeben. Der Herd bestimmt den Ausbruch der Krankheit und grenzt Ihn von anfang an in einem bestimmten Bereich ein. Dadurch beginnt der Start der Krankheit in einem bestimmten Radius.
 
+
+forever-Block
+
 Der nächste Block ist der forever Block
   <details>
   <summary>forever Block </summary>
@@ -71,6 +81,38 @@ Der nächste Block ist der forever Block
 ![image](https://user-images.githubusercontent.com/111464150/207893005-cc4294b6-0110-4819-ba97-7c770bac52b0.png)
 </details>
 Der forever Block hat Schleifen für die Agenten Mensch und Arzt. Jedoch haben wir in den forever Block Procedures eingefügt. Dadurch gewinnt unser Programm ein Gewisses Maß an übersichtlichkeit
+Fangen wir zuerst mit den Procedures für den Menschen an: Mensch Bewegung und Genesen.
+  <details>
+  <summary> Procedure für Mensch </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/207967440-48965e90-2a0b-4a1d-85e6-68e7049370fd.png)
+</details>
+In der ersten Procedure, wird die Bewegung des Menschen angegeben. Man kann sehen, dass das Movement der Agenten random ist, bis der Agent krank ist. Ab diesem Zeitraum gibt es eine Reichweite. Wenn er diese überschreitet, stirbt er.
+Das zweite Procedure gibt den Gensungsvorgang des Menschens an. Dieser gibt jedoch lediglich eine einstellbare Wahrscheinlichkeit für die Genseung an. Mithilfe eines Sliders kann man diese einstellen
+ <details>
+  <summary>  Slider für Heilungswahrscheinlichkeit </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/207968298-6e08b8e5-f1f4-4acd-a2d7-14d8337acee1.png)
+</details>
+
+Der andere Teil der forever-Funktion beschäftigt sich mit der Bewegung des Arztes. Der dazugehörige Code ist hier einzusehen:
+ <details>
+  <summary>   Arzt Bewegung  </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/207968689-6a3c968d-db64-4600-a853-fa5255380beb.png)
+</details>
+
+Die Bewegung des Arztes zu programmieren war schwer und hat uns einige Zeit gekostet. Häufig sind unerklärliche Fehler aufgetreten, welche behoben werden mussten.
+Mit diesem Block haben wir die Bewegung des Arztes programmiert. Und zwar besitzt der Arzt einen gewissen Radius, in welchem er Kranke Agenten riechen kann. Von denen sucht er sich einen Agenten aus und bestimmt dessen Nummer. Der Arzt weiß somit die X- und Y-Koordinaten des Kranken und verfolgt diesen. Durch eine höhere Geschwindigkeit holt er die Kranken ein. Bei Berührung werden die Kranken Agenten automatisch gesund. Sobald er seinen Patienten geheilt hat oder dieser zuvor verstorben ist, sucht sich der Arzt einen neuen kranken Agenten. Wenn am Ende alle geheilt sind und es keine Kranken mehr gibt, sagen alle Ärzte "Alle geheilt"
+
+
+Collision-Blöcke
+
+Ein weiterer wichtiger Block sind die Collision-Blöcke
+
 
 
 
