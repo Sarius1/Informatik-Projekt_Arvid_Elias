@@ -64,9 +64,19 @@ Der forever Block hat Schleifen für die Agenten Mensch und Arzt. Jedoch haben w
 
 
 # Kritik
+
 Da wir zuallererst die Grundlagen des Programmierens erlernen mussten, war uns weniger Zeit gegeben, als denen, die bereits ein breites Verständnis zum Programmieren hatten.
 # Ausicht für die Zukunft/ Fazit
-.
+
+Wir denken, dass mithilfe dieses Projektes viele Menschen die Auswirkungen von Krankheiten besser verstehen können. Sie können lernen, Pandemie und Krankheitsverläufe besser nachvollziehen zu können. Sie können lernen, verschiedene Wechselwirkungen innerhalb einer Pandemie zu verstehen. Wir hoffen, dass mithilfe unserer Simulation helfen können, ihr verhalten in einer solchen Situation besser einzuschätzen.
+
 # Quellen
-.
+
+https://education.mit.edu/starlogo-tng-download/
+https://education.mit.edu/project/starlogo-tng/
+
 # Eigenständigkeitserklärung
+Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe.
+Alle sinngemäß und wörtlich übernommenen Textstellen aus fremden Quellen wurden kenntlich gemacht.
+
+Elias Michno und Arvid Böse
