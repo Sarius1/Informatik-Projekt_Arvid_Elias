@@ -20,7 +20,20 @@ Im Jahr 2019 wurde das neue Virus, das Coronavirus entdeckt und die Welt geriet 
 
 # StarlogoTNG
 
-StarlogoTNG ist ein Programm, welches einem die vereinfachte Form des Coden lehrt. Es handelt sich hierbei nämlich um die Form des Blockcode. DIes bedeutet, dass man nicht wie bei anderen Sprachen wie Python oder Java den herrkömmlichen Code benutzt, sondern mit verschiedenen Blöcken arbeitet. Diese Blöcke haben einzelen Aufgaben und teilen so den Code sichtbar auf. Mithilfe des Blockcodes, soll es StarlogoTNG den Benutzern das Coden lehren und Verständnisbarrieren minimieren. Durch direkte §-D Darstellung im Nebenfenster kann man ve´rschiedene Blöcke schnell in Ihrer Funktion nachvollziehen und kann ein direktes Ergebnis beobachten. (vgl. https://education.mit.edu/project/starlogo-tng/#:~:text=StarLogo%20TNG%20is%20a%20downloadable%20programming%20environment%20that,3D%20games%20and%20simulations%20for%20understanding%20complex%20systems.)
+StarlogoTNG ist ein Programm, welches einem die vereinfachte Form des Coden lehrt. Es handelt sich hierbei nämlich um die Form des Blockcode. DIes bedeutet, dass man nicht wie bei anderen Sprachen wie Python oder Java den herrkömmlichen Code benutzt, sondern mit verschiedenen Blöcken arbeitet. Diese Blöcke haben einzelen Aufgaben und teilen so den Code sichtbar auf. Mithilfe des Blockcodes, soll es StarlogoTNG den Benutzern das Coden lehren und Verständnisbarrieren minimieren. Durch direkte §-D Darstellung im Nebenfenster kann man ve´rschiedene Blöcke schnell in Ihrer Funktion nachvollziehen und kann ein direktes Ergebnis beobachten. (vgl. Quelle 1) Zudem kann man hier das Logo von StarlogoTNG sehen. StarlogoTNG wurde von Mitchel Resnick, Eric Klopfer und anderen des MIT (Massachusetts Institute of Technology) im Jahr 2010 Programmiert und veröffentlicht.
+ <details>
+  <summary>StarlogoTNG Logo   </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/207951571-53d6bd6a-3917-4d70-a869-4920e97b57cb.png)
+</details>
+<details>
+  <summary>MIT Logo   </summary>
+  
+![image](https://user-images.githubusercontent.com/111464150/207953054-184b39a4-c768-4bdd-ba75-efd8c553aa3b.png)
+
+</details>
+
 
 # Projektentwicklung
 Wie ich es bereits in der Einleitung erwähnt habe, hatten wir keine nennenswerte Erfahrungen mit dem Programmieren. Dadurch hat sich auch die Entwicklung unseres Projekts als problematisch herausgestellt. Bevor wir mit unserem Projekt starten konnten, mussten wir uns zuerst die Grundlagen des Programmierens erarbeiten. Dazu hatten wir verschiedene Lerneinheiten von Herr Buhl bekommen, welche mir mit dem Programm bearbeiten konnten. Jedoch war uns bereits schnell klar, dass wir etwas schaffen wollten, was zum allgemeinwohl unserer Gesellschaft beiträgt. Wir wollten etwas schaffen, wovon jeder profitieren kann. Mit dem Hinblick auf die letzten Jahre und durch die Unterstützung der Lerneinheiten hatten wir uns auf das Programmieren der Pandemie geeinigt.
@@ -31,7 +44,7 @@ Wie bereits erwähnt, hatten wir uns für das Programmieren einer Pandemie entsc
 Da StarlogoTNG den Blockcode verwendet haben wir auch nur eben diesen verwendet. Beim Blockcode hatten wir verschiedene Variablen und Blöcke welche jeweils eine einzigartige Funktion haben. 
 Bei StarlogoTNG beginnt ein jder Code mit dem Setup Block
   <details>
-  <summary>Startbildschirm Starlogo TNG</summary>
+  <summary>setup   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/207886335-a2dfe999-7ef5-4abf-b083-cbb4927b824e.png)
@@ -42,7 +55,7 @@ Das Geld wurde ebenfalls als immun programmiert und auf halbe größe gesetzt.
 
 Der nächste Block ist der Run Once Block. Dieser wird nur am Anfang ausgeführt und eben nur ein Mal.
   <details>
-  <summary>Startbildschirm Starlogo TNG</summary>
+  <summary>run once Block    </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/207889797-2787a940-d53a-44e6-a6b0-0b69e961315f.png)
@@ -52,7 +65,7 @@ Mit dem run once Block haben wir den Herd angegeben. Der Herd bestimmt den Ausbr
 
 Der nächste Block ist der forever Block
   <details>
-  <summary>Startbildschirm Starlogo TNG</summary>
+  <summary>forever Block </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/207893005-cc4294b6-0110-4819-ba97-7c770bac52b0.png)
@@ -72,8 +85,10 @@ Wir denken, dass mithilfe dieses Projektes viele Menschen die Auswirkungen von K
 
 # Quellen
 
+https://education.mit.edu/project/starlogo-tng/#:~:text=StarLogo%20TNG%20is%20a%20downloadable%20programming%20environment%20that,3D%20games%20and%20simulations%20for%20understanding%20complex%20systems
 https://education.mit.edu/starlogo-tng-download/
 https://education.mit.edu/project/starlogo-tng/
+ 
 
 # Eigenständigkeitserklärung
 Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe.
