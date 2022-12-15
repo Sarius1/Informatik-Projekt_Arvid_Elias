@@ -4,7 +4,7 @@ Herzlich Willkommen zu Unserem Projekt der Pandemie. Zur Übersichtlichkeit habe
 
 
 Übersicht
-1. Blog
+1. [Blog](https://github.com/Sarius1/Informatik-Projekt_Arvid_Elias/blob/main/Blog.md)
 2. Projektseite
 
 # Blog
