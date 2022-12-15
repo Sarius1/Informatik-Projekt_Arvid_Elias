@@ -8,6 +8,6 @@ Herzlich Willkommen zu Unserem Projekt der Pandemie. Zur Übersichtlichkeit habe
 2. [Projektseite](https://github.com/Sarius1/Informatik-Projekt_Arvid_Elias/blob/main/Projektseite.md)
 
 # Blog
-Der Blog war eine langzeitaufgabe, in welcher man zu jedem Stundenende seinen Fortschritt dokumentiert hat. Zur unterstützung haben wir Screenshots aus dem Programm StarlogoTNG verwendet
+Der Blog war eine Langzeitaufgabe, in welcher man zu jedem Stundenende seinen Fortschritt dokumentiert hat. Zur Unterstützung haben wir Screenshots aus dem Programm StarlogoTNG verwendet.
 # Projektseite
-Auf meiner Projektseite stellen wir unser Endprojekt der PAndemie letztendlich vor. WIr fangen mit einer Einleitung in das Thema an, erklären ausführlich den Code und die Hintergedanken und erläutern im Nachhinein Kritik an unserem Projekt. Die Projektseigte schließen wir letztendlich mit einem eigenen Fazit ab.
+Auf unserer Projektseite stellen wir unser Endprojekt der Pandemie letztendlich vor. Wir fangen mit einer Einleitung in das Thema an, erklären ausführlich den Code und die Hintergedanken und erläutern im nachhinein eigene Kritik an unserem Projekt. Die Projektseite schließen wir letztendlich mit einem eigenen Fazit ab.
