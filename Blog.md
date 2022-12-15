@@ -17,8 +17,7 @@ Wie man in diesem Bild sehen kann, ist Starlogo nicht wie jedes Codingprogramm, 
 ![image](https://user-images.githubusercontent.com/111464150/191757783-a1c47c59-da4a-469a-88f3-947912992ca4.png)
 
 </details>
-Hier sehen wir die bereits genannte zweite Lerneinheit: In einem foreverBlock haben wir angegeben, mit welchen Tastaturtastenkombinationen man seine Figur steuern kann. <br>
-
+Hier sehen wir die bereits genannte zweite Lerneinheit: In einem foreverBlock haben wir angegeben, mit welchen Tastaturtastenkombinationen man seine Figur steuern kann.
 
 25. August 2022
 
