@@ -78,7 +78,7 @@ Der forever Block hat Schleifen für die Agenten Mensch und Arzt. Jedoch haben w
 
 # Kritik
 
-Da wir zuallererst die Grundlagen des Programmierens erlernen mussten, war uns weniger Zeit gegeben, als denen, die bereits ein breites Verständnis zum Programmieren hatten.
+Da wir zuallererst die Grundlagen des Programmierens erlernen mussten, war uns weniger Zeit gegeben, als denen, die bereits ein breites Verständnis zum Programmieren hatten.Denoch denken wir, das manche Abläufe nicht ganz geschmeidig Laufen und noch verbessert werden können. Ein Beispiel ist
 # Ausicht für die Zukunft/ Fazit
 
 Wir denken, dass mithilfe dieses Projektes viele Menschen die Auswirkungen von Krankheiten besser verstehen können. Sie können lernen, Pandemie und Krankheitsverläufe besser nachvollziehen zu können. Sie können lernen, verschiedene Wechselwirkungen innerhalb einer Pandemie zu verstehen. Wir hoffen, dass mithilfe unserer Simulation helfen können, ihr verhalten in einer solchen Situation besser einzuschätzen.
@@ -86,7 +86,9 @@ Wir denken, dass mithilfe dieses Projektes viele Menschen die Auswirkungen von K
 # Quellen
 
 https://education.mit.edu/project/starlogo-tng/#:~:text=StarLogo%20TNG%20is%20a%20downloadable%20programming%20environment%20that,3D%20games%20and%20simulations%20for%20understanding%20complex%20systems
+
 https://education.mit.edu/starlogo-tng-download/
+
 https://education.mit.edu/project/starlogo-tng/
  
 
