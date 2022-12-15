@@ -43,10 +43,9 @@ Wie bereits erwähnt, hatten wir uns für das Programmieren einer Pandemie entsc
 # Der Code
 Da StarlogoTNG den Blockcode verwendet haben wir auch nur eben diesen verwendet. Beim Blockcode hatten wir verschiedene Variablen und Blöcke welche jeweils eine einzigartige Funktion haben. 
 
-
 Setup-Block
 
-Bei StarlogoTNG beginnt ein jder Code mit dem Setup Block
+Bei StarlogoTNG beginnt ein jeder Code mit dem Setup Block.
   <details>
   <summary>setup   </summary>
   
@@ -56,7 +55,6 @@ Bei StarlogoTNG beginnt ein jder Code mit dem Setup Block
 In unserem  Setupblock kreieren wir vier verschiedene Agenten: den Menschen, den Arzt, das Geld und das Krankenhaus. Im Setupblock für den Menschen ist zuallererst die Anzahl angeben. Zudem wird die Population direkt in Gesunde und Kranke aufgeteilt. Die Gesunden sind Blau und die Kranken sind rot. Dadurch kann man es ersichtlich machen, welcher Anteil der Population krank ist und welcher gesund ist. Zudem wird der Kontostand  aller Menschen auf null gesetzt. 
 Beik Setupblock des Arztes kann man erkennen, dass zuerst 1 Arzt existiert. DIeser ist gesund und kann nicht krank werden.
 Das Geld wurde ebenfalls als immun programmiert und auf halbe größe gesetzt.
-
 
 run-once-Block
 
@@ -69,7 +67,6 @@ Der nächste Block ist der Run Once Block. Dieser wird nur am Anfang ausgeführt
 </details>
 
 Mit dem run once Block haben wir den Herd angegeben. Der Herd bestimmt den Ausbruch der Krankheit und grenzt Ihn von anfang an in einem bestimmten Bereich ein. Dadurch beginnt der Start der Krankheit in einem bestimmten Radius.
-
 
 forever-Block
 
@@ -108,10 +105,17 @@ Der andere Teil der forever-Funktion beschäftigt sich mit der Bewegung des Arzt
 Die Bewegung des Arztes zu programmieren war schwer und hat uns einige Zeit gekostet. Häufig sind unerklärliche Fehler aufgetreten, welche behoben werden mussten.
 Mit diesem Block haben wir die Bewegung des Arztes programmiert. Und zwar besitzt der Arzt einen gewissen Radius, in welchem er Kranke Agenten riechen kann. Von denen sucht er sich einen Agenten aus und bestimmt dessen Nummer. Der Arzt weiß somit die X- und Y-Koordinaten des Kranken und verfolgt diesen. Durch eine höhere Geschwindigkeit holt er die Kranken ein. Bei Berührung werden die Kranken Agenten automatisch gesund. Sobald er seinen Patienten geheilt hat oder dieser zuvor verstorben ist, sucht sich der Arzt einen neuen kranken Agenten. Wenn am Ende alle geheilt sind und es keine Kranken mehr gibt, sagen alle Ärzte "Alle geheilt"
 
-
 Collision-Blöcke
 
-Ein weiterer wichtiger Block sind die Collision-Blöcke
+Ein weiterer wichtiger Block sind die Collision-Blöcke.
+Collision-Blöcke beschreiben, was bei einem zusammentreffen Zweier Agenten passiert. Dabei haben wir vier verschiedene Collision-Blöcke.
+Der erste ist der Collisionblock Mensch-Mensch.
+ <details>
+  <summary>   Arzt Bewegung  </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/207971087-7f4d7b6b-ac7a-42bd-bbf5-384f15b59e7f.png)
+</details>
 
 
 
