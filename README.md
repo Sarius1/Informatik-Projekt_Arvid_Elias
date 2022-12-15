@@ -5,7 +5,7 @@ Herzlich Willkommen zu Unserem Projekt der Pandemie. Zur Übersichtlichkeit habe
 
 Übersicht
 1. [Blog](https://github.com/Sarius1/Informatik-Projekt_Arvid_Elias/blob/main/Blog.md)
-2. Projektseite
+2. [Projektseite](https://github.com/Sarius1/Informatik-Projekt_Arvid_Elias/blob/main/Projektseite.md)
 
 # Blog
 Der Blog war eine langzeitaufgabe, in welcher man zu jedem Stundenende seinen Fortschritt dokumentiert hat. Zur unterstützung haben wir Screenshots aus dem Programm StarlogoTNG verwendet
