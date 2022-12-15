@@ -1,11 +1,11 @@
- 22. August 2022
+# 22. August 2022
 
 Heute haben wir uns mit den Grundlagen des Programmierens beschäftigt. Wir haben bereits versucht ein Thema zu finden, welches wir gerne programmieren würden (z.B. eine Website oder ein Spiel). Wir haben uns jedoch umentschieden und vorerst angefangen unsere Programmiergrundlagen zu verbessern, da wir beide mit sehr wenig Erfahrung ins Programmieren gegangen sind. Deshalb haben wir die StarlogoTNG Lernaktivitäten angefangen zu bearbeiten. Wir sind bis Lernaktivität 2 gekommen, denn natürlich hat es etwas gedauert sich mit den Grundlagen vertraut zu machen.
 Bei der ersten Lerneinheit war es die Aufgabe, den Agenten eine bestimmte Bewegung zu coden, sodass diese im Kreis laufen. Dafür wurde eine Schritt-für-Schritt -Anleitung bereitgestellt.
 Die zweite Lerneinheit war bereits komplexer. In dieser sollte man die Agenten frei in der Fläche rumlaufen lassen. Zudem haben wir einen neuen Block kennengekernt, und zwar den Collision-Block. Mit diesem Block sollten wir einstellen, dass wenn zwei Agenten "kollidieren" , sie sich gegenseitig mit Hilfe des "say" Blocks grüßen.
   <details>
   <summary>Startbildschirm Starlogo TNG</summary>
-
+ 
 ![image](https://user-images.githubusercontent.com/111464150/191756030-480fd920-de61-4f4a-af90-ed2a90bc07fc.png)
 
 </details>
@@ -20,9 +20,9 @@ Wie man in diesem Bild sehen kann, ist Starlogo nicht wie jedes Codingprogramm, 
 
 Hier sehen wir die bereits genannte zweite Lerneinheit: In einem foreverBlock haben wir angegeben, mit welchen Tastaturtastenkombinationen man seine Figur steuern kann.
 
-25. August 2022
+# 25. August 2022
 
-Heute haben wir uns weiterhin mit StarLogoTNG programmiert. Wir sind bis Lernaktivität 4 gekommen und haben diese auch abgeschlossen. Am Ende der Stunde haben wir uns auch mit globalen Variablen beschäftigt und das Abeitsblatt dazu gelesen und im Code angewandt. Die Lernaktivität bestand daraus, die aus den vorherigen gelernten Codes in eine neue Schwierigere Aufgabe zu implementieren. DIe neue Aufgabe war es, dass der Agent neue Blöcke einsammeln kann und angezeigt wird wieviele Blöcke er bereits eingesammelt hat. Dafür war es notwendig, eine globale Variable in den Code zu implementieren, die die Blöcke auf dem Feld konstant angibt. Um ein breiteres Verständnis zu erlangen, haben wir uns die verlinkten Arbeitszettel angeguckt.
+Heute haben wir weiterhin mit StarLogoTNG programmiert. Wir sind bis Lernaktivität 4 gekommen und haben diese auch abgeschlossen. Am Ende der Stunde haben wir uns auch mit globalen Variablen beschäftigt und das Abeitsblatt dazu gelesen und im Code angewandt. Die Lernaktivität bestand daraus, die aus den vorherigen gelernten Codes in eine neue Schwierigere Aufgabe zu implementieren. Die neue Aufgabe war es, dass der Agent neue Blöcke einsammeln kann und angezeigt wird wie viele Blöcke er bereits eingesammelt hat. Dafür war es notwendig, eine globale Variable in dem Code zu benutzen, die alle Blöcke auf dem Feld dauerhaft angibt. Um ein breiteres Verständnis zu erlangen, haben wir uns die verlinkten Arbeitszettel zusätzlich angeguckt.
 
 29. August 2022
 
