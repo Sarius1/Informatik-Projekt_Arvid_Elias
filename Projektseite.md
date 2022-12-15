@@ -78,7 +78,9 @@ Der forever Block hat Schleifen für die Agenten Mensch und Arzt. Jedoch haben w
 
 # Kritik
 
-Da wir zuallererst die Grundlagen des Programmierens erlernen mussten, war uns weniger Zeit gegeben, als denen, die bereits ein breites Verständnis zum Programmieren hatten.Denoch denken wir, das manche Abläufe nicht ganz geschmeidig Laufen und noch verbessert werden können. Ein Beispiel ist
+Da wir zuallererst die Grundlagen des Programmierens erlernen mussten, war uns weniger Zeit gegeben, als denen, die bereits ein breites Verständnis zum Programmieren hatten.Denoch denken wir, das manche Abläufe nicht ganz geschmeidig Laufen und noch verbessert werden können. Ein Beispiel ist das "Spawnen" der Coins, also des Geldes. Das Geld wird benötigt, damit die Kranke im Krankenhaus genesen können. Dabei wird von Agenten das Geld "gespawnt". Im echten Leben ist dies natürlich nicht so. Auch haben wir Ärzte die kranken Patienten hinterherlaufen-
+VIDEO
+Im der Realität wären Ärzte in einer Pandemie ein hoch geschätztes Gut, wodurch Patienten eher zu Ihnen laufen sollten. DIes haben wir jedoch durch das Krankenhaus dargestellt, in welchem sich auch Kranke Agenten heilen lassen können
 # Ausicht für die Zukunft/ Fazit
 
 Wir denken, dass mithilfe dieses Projektes viele Menschen die Auswirkungen von Krankheiten besser verstehen können. Sie können lernen, Pandemie und Krankheitsverläufe besser nachvollziehen zu können. Sie können lernen, verschiedene Wechselwirkungen innerhalb einer Pandemie zu verstehen. Wir hoffen, dass mithilfe unserer Simulation helfen können, ihr verhalten in einer solchen Situation besser einzuschätzen.
