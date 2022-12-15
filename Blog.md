@@ -10,15 +10,14 @@ Die zweite Lerneinheit war bereits komplexer. In dieser sollte man die Agenten f
 
 </details>
 
-Wie man in diesem Bild sehen kann, ist Starlogo nicht wie jedes Programmierprogramm, sondern benutzt eine vereinfachte Form des codens, das Blockcodieren. Durch das Blockcoden lernt man Schritt für Schritt das einfache Coden. Dies ist eine effektivere Art, Coden zu lernen, als ohne Erfahrung in eine komplizierte Sprache wie Python oder JavaScript hineingeworfen zu werden. Dies liegt daran, dass man durch Blockcoding ein allgemeines, umfassendes Verständnis des Programmierens erlangt.
+Wie man in diesem Bild sehen kann, ist Starlogo nicht wie jedes Codingprogramm, sondern benutzt eine stark vereinfachte Form des codens, das Blockcodieren. Durch das Blockcoden lernt man Schritt für Schritt das einfache Coden. Dies ist eine effektivere Art, Coden zu lernen, als ohne Erfahrung in eine komplizierte Sprache wie Python oder JavaScript hineingeworfen zu werden. Dies liegt daran, dass man durch Blockcoding ein allgemeines, umfassendes Verständnis des Programmierens erlangt.
 <details>
   <summary>Code Steuerung</summary>
 
 ![image](https://user-images.githubusercontent.com/111464150/191757783-a1c47c59-da4a-469a-88f3-947912992ca4.png)
 
 </details>
-Im Beispiel hier haben wir mithilfe des Blockcodes eine Figur programmiert, mit der man sich auf einem Gelände frei Bewegen kann. Dafür haben wir einen Setup-Block, welcher die Figur spawnt. In einem foreverBlock haben wir angegeben, mit welchen Tastaturtastenkombinationen man seine Figur steuern kann.
-
+Hier sehen wir die bereits genannte zweite Lerneinheit: In einem foreverBlock haben wir angegeben, mit welchen Tastaturtastenkombinationen man seine Figur steuern kann. <br>
 
 
 25. August 2022
