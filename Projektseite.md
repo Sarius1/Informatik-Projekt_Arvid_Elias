@@ -40,6 +40,13 @@ Wie ich es bereits in der Einleitung erwähnt habe, hatten wir keine nennenswert
 .
 # Vorstellung des Projekts
 Wie bereits erwähnt, hatten wir uns für das Programmieren einer Pandemie entschieden. Jedoch waren wir uns noch nicht klar, welches Ausmaß diese annehmen sollte. Da StarlogoTNG ein bereits altes Programm ist und dadurch gewisse Kapazitäten gegeben waren, wurden wir leider etwas eingeschränkt. Dies ändert jedoch nicht an der Vielfältigkeit unseres Projektes. Allein der Blick auf die Startseite zeigt, das es unglaublich viele, einstellbare Variablen zum Anpassen gibt. Zudem gibt es viele Graphen, die den Verlauf der Pandemie tracken und bspw. den Gesunden-, Kranken- und Ärzteanteil zeigen.
+Hier könnt haben wir dementsprechend ein Video verlinkt, wie so eine Pandemie aussehen könnte.
+<details>
+  <summary>Link zum Video    </summary>
+  
+(https://clipchamp.com/watch/5PGOA9Ho842)
+</details>
+
 # Der Code
 Da StarlogoTNG den Blockcode verwendet haben wir auch nur eben diesen verwendet. Beim Blockcode hatten wir verschiedene Variablen und Blöcke welche jeweils eine einzigartige Funktion haben. 
 
