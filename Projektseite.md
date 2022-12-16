@@ -193,3 +193,6 @@ Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig verfasst un
 Alle sinngemäß und wörtlich übernommenen Textstellen aus fremden Quellen wurden kenntlich gemacht.
 
 Elias Michno und Arvid Böse
+
+
+1571 Wörter
