@@ -39,8 +39,8 @@ Heute habe wir die Lernaktivität 5 abgeschlossen. Jedoch haben wir einen sogena
 </details>
 
   
-In diesem Bild ist der Agent, welchen man bewegen kann neben dem Gegenstand, welchen man einsammeln muss, um ein Haus zu betreten. zudem haben wir Enemys, also Feinde programmiert, durch welche man bei Berührung stirbt.
-Zudem hat unser Agent die Möglichkeit bei einer Collision mit einem Baum, hinaufzuklettern.
+In diesem Bild ist der Agent, welchen man bewegen kann neben dem Gegenstand, welchen man einsammeln muss, um ein Haus zu betreten. Zudem haben wir Enemys, also Feinde programmiert, durch welche man bei Berührung stirbt.
+Auch hat unser Agent die Möglichkeit, bei einer Collision mit einem Baum, hinaufzuklettern.
   <details>
   <summary>Sicht des Charakters über Bäumen</summary>
 
@@ -48,7 +48,7 @@ Zudem hat unser Agent die Möglichkeit bei einer Collision mit einem Baum, hinau
 
 </details>
 
-Dadurch kann man sich einen besseren Überblick über die Map verschaffen. Mit dem Abschließen dieser Lerneinheit haben wir unser erstes Adventure-Spiel programmiert. Nach dem Abschließen des Spiels erscheint ein Victory-Bildschirm 
+Dadurch kann man sich einen besseren Überblick über die Map verschaffen. Mit dem Abschließen dieser Lerneinheit haben wir unser erstes Adventure-Spiel programmiert. Nach dem Abschließen des Spiels erscheint ein Victory-Bildschirm.
   <details>
   <summary>Victory-Bildschirm</summary>
 
@@ -63,11 +63,11 @@ Des weiteren haben wir bereits mit der nächsten Lernaktivität angefangen. Da s
 
 # 8. Semptember 2022
 
-An diesem Tag haben wir mit dem Coden des Paintball-Spiels fortgefahren. Dies hat sich als kompliziert herausgestellt, da man viele Sachen im Code beachten musste. Dabei haben wir gelernt wie man eine Hatch-Funktion benutzt. Mit der Hatchfunktion konnte man den Agenten ausgewählte Objekte spawnen lassen. Diese Objekte konnte man dann noch Programmieren, sodass diese unsere Projektile waren.
+An diesem Tag haben wir mit dem Coden des Paintball-Spiels fortgefahren. Dies hat sich als kompliziert herausgestellt, da man viele Sachen im Code beachten musste. Dabei haben wir gelernt, wie man eine Hatch-Funktion benutzt. Mit der Hatchfunktion konnte man den Agenten ausgewählte Objekte spawnen lassen. Diese Objekte konnte man dann noch Programmieren, sodass diese unsere Projektile waren.
 
 # 12. September 2022
 
-Heute haben wir die Lernaktivität 6 beendet. diese Lernaktivität bestand daraus, ein Paintball-Spiel zu programmieren. in dem Spiel hat man Blöcke geschossen, welche dann die Farbe von Enemys veränderte. Herr Buhl hatte uns dann noch mit Globalen und Agenten - variablen gezeigt, wie der Paintball nach einiger Zeit verschwindet. Dadurch wurde uns noch die Funktion der Variablen noch näher gebracht. Auch haben wir die Lernaktivitäten 7 und 8 fertiggestellt. Diese haben auf dem urspünglichen Paintball-Spiel aufgebaut.
+Heute haben wir die Lernaktivität 6 beendet. Diese Lernaktivität bestand daraus, ein Paintball-Spiel zu programmieren. in dem Spiel hat man Blöcke geschossen, welche dann die Farbe von Enemys veränderte. Herr Buhl hatte uns dann noch mit Globalen und Agenten - Variablen gezeigt, wie der Paintball nach einiger Zeit verschwindet. Dadurch wurde uns noch die Funktion der Variablen noch näher gebracht. Auch haben wir die Lernaktivitäten 7 und 8 fertiggestellt. Diese haben auf dem urspünglichen Paintball-Spiel aufgebaut.
   <details>
   <summary>Paintball Mario</summary>
 
@@ -144,7 +144,7 @@ Im ersten Diagramm sieht man die Anzahl der jeweiligen Agenten zum Start der Epi
   
   # 24. Oktober 2022
 
-Nach einer etwas längeren Pause aufgrund der Ferien hatten wir heute wieder Informatik. Wir sind schnell wieder ins coden reingekommen. Wir haben daraufhin parallel an zwei kleinen Zwischenprojekten gearbeitet. Eine Person hat ein funktionierendes Krankenhaus programmiert, woraufhin die andere Person Projektile, also Nieser programmiert hat. Beim Krankenhaus ist es so, das Kranke Menschen zu einem fest platzierten Geäude gehen. Die Heilwahrscheinlichkeit ist 100% für die Agenten. Jedoch kann nur eine Einstellbare Menge an Agenten das Krankenhaus betreten. Wenn diese Anzahl erreicht wurde, wird das Krankenhaus unbrauchbar.
+Nach einer etwas längeren Pause aufgrund der Ferien hatten wir heute wieder Informatik. Wir sind schnell wieder ins Coden reingekommen. Wir haben daraufhin parallel an zwei kleinen Zwischenprojekten gearbeitet. Eine Person hat ein funktionierendes Krankenhaus programmiert, woraufhin die andere Person Projektile, also Nieser programmiert hat. Beim Krankenhaus ist es so, das Kranke Menschen zu einem fest platzierten Geäude gehen. Die Heilwahrscheinlichkeit ist 100% für die Agenten. Jedoch kann nur eine einstellbare Menge an Agenten das Krankenhaus betreten. Wenn diese Anzahl erreicht wurde, wird das Krankenhaus unbrauchbar.
   <details>
   <summary>Krankenhaus</summary>
 
@@ -162,16 +162,16 @@ Beim Pratikelausstoß ist es so, dass Kranke Patienten eine bestimmte Menge Part
 </details>
 # 03. November 2022
 
-Während des Programmierens haben wir gemerkt, dass wir nicht alle Lerneinheiten gespeichert haben. Der Vollständigkeit halber haben wir uns dazu entschieden, die älteren Lerneinheiten neu zu erstellen um unter anderem für den Block den Code und Screenshots zu haben. Dafür haben wir die Lerneinheiten 1,2 und 3 beendet. Zudem haben wir auch unseren Dateienordner geordnet und einen neuen Ordner, den Screenshot-Ordner erstellt.
+Während des Programmierens haben wir gemerkt, dass wir nicht alle Lerneinheiten gespeichert haben. Der Vollständigkeit halber haben wir uns dazu entschieden, die älteren Lerneinheiten neu zu erstellen, um unter anderem für den Block den Code und Screenshots zu haben. Dafür haben wir die Lerneinheiten 1,2 und 3 beendet. Zudem haben wir auch unseren Dateienordner geordnet und einen neuen Ordner, den Screenshot-Ordner erstellt.
 
 # 7. November 2022
 
 Heute haben wir mit dem Programmieren der fehlenden Lerneinheiten fortgefahren. Wir haben die Lerneinheiten 4 und 5 abgeschlossen.
-Das wiederholen der bereits abgeschlossenen Lerneinheiten bringt zwei Vorteile mit sich. Der erste ist, dass wir alle Lerneinheiten dann vollständig gespeichert habe3n. Der zweite Vorteil ist es, dass wir dadurch mit bereits älteren Coding-Techniken wieder in Kontakt kommen und dadurch uner Reservoir an bereits angewandtem Coing getestet wird. Dadurch können wir auch sichergehen, dass wir bereits gelernte Code-Techniken nicht vergessen.
+Das wiederholen der bereits abgeschlossenen Lerneinheiten bringt zwei Vorteile mit sich. Der Erste ist, dass wir alle Lerneinheiten dann vollständig gespeichert haben. Der zweite Vorteil ist es, dass wir dadurch mit bereits älteren Coding-Techniken wieder in Kontakt kommen und dadurch uner Reservoir an bereits angewandtem Coing getestet wird. Dadurch können wir auch sichergehen, dass wir bereits gelernte Code-Techniken nicht vergessen.
 
  
 # 10. November 2022
-
+Heute haben wir die alten Lerneinheiten beeendet. Des weiteren haben wir uns überlegt, wie unser Endprojekt aussehen würde. Dies liegt daran, da die Abgabe immer näher rückt.
 
 # 17. November 2022
 Heute haben wir mit einem neuen großprojekt angefangen. Dabei haben wir uns bei einem von Herr Buhl gezeigten Projekt inspirieren lassen. In diesem neuen Großprojekt wollen wir verschiedene Arten von Agenten kreieren, um eie Räuber Beute simulation simulieren zu können.
