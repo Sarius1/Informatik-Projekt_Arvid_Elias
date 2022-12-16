@@ -111,11 +111,32 @@ Ein weiterer wichtiger Block sind die Collision-Blöcke.
 Collision-Blöcke beschreiben, was bei einem zusammentreffen Zweier Agenten passiert. Dabei haben wir vier verschiedene Collision-Blöcke.
 Der erste ist der Collisionblock Mensch-Mensch.
  <details>
-  <summary>   Arzt Bewegung  </summary>
+  <summary> Collisionblock Mensch-Mensch     </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/207971087-7f4d7b6b-ac7a-42bd-bbf5-384f15b59e7f.png)
 </details>
+Dabei handelt es sich um eine Collision zwischen einem kranken und einem gesunden Patienten. Mit dem if-Block wird gechecked, ob der der Agent gesund ist. Wenn dies der Fall ist und mit einem Kranken kollidiert hat er eine random Ansteckungswahrscheinlichkeit. DIese kann man mithilfe eines Silders festlegen. Falls der Fall zutrifft und der Agent krank wird, ändert man mit dem Block set istKrank = true seinen Staus. Für die Optik ändert sich auch die Farbe des Agenten auf Rot
+
+Der zweite Collision Block beschäftigt sich mit der Kollision eines Kranken Agenten und dem Krankenhaus
+ <details>
+  <summary> Collisionblock Kranker Agent-Krankenhaus     </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/208060775-be87c3ac-cd2a-48dc-bb02-aed423437673.png)
+</details>
+Dabei wird geprüpft, ob der Agent Krank ist. Wenn dies der Fall ist, werden die Patienten in das Krankenhaus reingelassen. Jedoch gibt es einen gewissen Einlass, welcher sich pro Agent um einen vermindert. Wenn dieser auf null ist, werden nur noch Agenten in das Krankenhaus gelassen, welche 3 oder mehr Coins aufgesammelt haben. Auf beide Weisen werden die Agenten geheilt und auf die Farbe blau umgeändert.
+
+Die nächste Collision ist eine kurze und beschreibt  das kollidieren zwischen einem Agenten und dem Geld
+<details>
+  <summary> Collisionblock  Agent-Geld     </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/208061435-3fceb7af-30c2-43a6-9c76-38f0dfb87cdc.png)
+</details>
+
+In dem Block wird lediglich angegeben. das der Geldblock beim berühren verschwindet und die Geldanzahl des jeweiligen Agenten sich um einen erhöht.
+
 
 
 
