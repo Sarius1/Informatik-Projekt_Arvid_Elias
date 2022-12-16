@@ -137,7 +137,16 @@ Die nächste Collision ist eine kurze und beschreibt  das kollidieren zwischen e
 
 In dem Block wird lediglich angegeben. das der Geldblock beim berühren verschwindet und die Geldanzahl des jeweiligen Agenten sich um einen erhöht.
 
+Der letzte Collision Block beschäftigt sich mit dem kollidieren eines Arztes und dem Menschen.
+<details>
+  <summary> Collisionblock  Agent-Geld     </summary>
+  
 
+![image](https://user-images.githubusercontent.com/111464150/208062238-11cc423a-5b55-45be-be59-5a0dda15dd88.png)
+</details>
+ Dieser Block gibt an, wie der Mensch agiert, wenn der Mensch mit dem Arzt in Berührung kommt.
+ Anstatt Gesund zu werden, gibt es nämlich zusätzlich eine Dankbarkeitsrate. Die Dankbarkeitsrate gibt an, ob der Agent zum Arzt werden soll. Wenn dies geschieht, ändert sich sein Geschlecht (breed) zur der vom Arzt. Um dann nicht Aber immer noch krank zu sein, muss man auch seinen Gesundheitsstatus auf set istKrank=false stellen.
+ Falls diese Dankbarkeitsrate jedoch nicht zutrifft, wirft der Mensch Geld auf den Boden ab, welches aufgesammelt werden kann.
 
 
 
