@@ -148,14 +148,25 @@ Der letzte Collision Block beschäftigt sich mit dem kollidieren eines Arztes un
  Anstatt Gesund zu werden, gibt es nämlich zusätzlich eine Dankbarkeitsrate. Die Dankbarkeitsrate gibt an, ob der Agent zum Arzt werden soll. Wenn dies geschieht, ändert sich sein Geschlecht (breed) zur der vom Arzt. Um dann nicht Aber immer noch krank zu sein, muss man auch seinen Gesundheitsstatus auf set istKrank=false stellen.
  Falls diese Dankbarkeitsrate jedoch nicht zutrifft, wirft der Mensch Geld auf den Boden ab, welches aufgesammelt werden kann.
 
+Der letzte relevante Teil des Codes sind die Slider. Mithilfe der Slider kann man als Nutzer bestimmte Variablen nach den eigenen Bedürfnissen anpassen.
+<details>
+  <summary>   Slider-Im Code     </summary>
+  
 
+![image](https://user-images.githubusercontent.com/111464150/208063904-2d2f19ee-83ea-4f1c-be3a-046c7798b70a.png)
+</details>
+<details>
+ Als nächstes kann man die Silder sehen, wie man sie umstellen kann.
+  <summary>   Slider-In der Pandemie     </summary>
+  
 
-
+![image](https://user-images.githubusercontent.com/111464150/208064340-bb0b5329-82d8-4fe0-ae94-9c631a1454e1.png)
+</details>
+Je nach Einstellungen im Slider kann man den gesamten Verlauf der Pandemie verändern
 
 # Kritik
 
-Da wir zuallererst die Grundlagen des Programmierens erlernen mussten, war uns weniger Zeit gegeben, als denen, die bereits ein breites Verständnis zum Programmieren hatten.Denoch denken wir, das manche Abläufe nicht ganz geschmeidig Laufen und noch verbessert werden können. Ein Beispiel ist das "Spawnen" der Coins, also des Geldes. Das Geld wird benötigt, damit die Kranke im Krankenhaus genesen können. Dabei wird von Agenten das Geld "gespawnt". Im echten Leben ist dies natürlich nicht so. Auch haben wir Ärzte die kranken Patienten hinterherlaufen-
-VIDEO
+Da wir zuallererst die Grundlagen des Programmierens erlernen mussten, war uns weniger Zeit gegeben, als denen, die bereits ein breites Verständnis zum Programmieren hatten.Denoch denken wir, das manche Abläufe nicht ganz geschmeidig Laufen und noch verbessert werden können. Ein Beispiel ist das "Spawnen" der Coins, also des Geldes. Das Geld wird benötigt, damit die Kranke im Krankenhaus genesen können. Dabei wird von Agenten das Geld "gespawnt". Im echten Leben ist dies natürlich nicht so. Auch haben wir Ärzte die kranken Patienten hinterherlaufen.
 Im der Realität wären Ärzte in einer Pandemie ein hoch geschätztes Gut, wodurch Patienten eher zu Ihnen laufen sollten. DIes haben wir jedoch durch das Krankenhaus dargestellt, in welchem sich auch Kranke Agenten heilen lassen können
 # Ausicht für die Zukunft/ Fazit
 
